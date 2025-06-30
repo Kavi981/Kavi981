@@ -21,7 +21,6 @@ Hi! I'm **Kaviyarasu**, a Computer Science student (2022–2026) who loves build
 
 ### 💡 Languages  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" height="40"/>
