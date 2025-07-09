@@ -18,22 +18,28 @@ Hi! I'm **Kaviyarasu**, a Computer Science student (2022–2026) who loves build
 ---
 
 ## 🚀 Tech Stack
-
-### 💡 Languages  
+### 💡 Language  
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
 </p>
 
-### 🌐 Web & Backend  
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="40"/>
+  <img src="https://img.icons8.com/officel/48/react.png" alt="React" height="40"/>
+</p>
+
+### 🌐 Backend  
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="40"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
+
+### 🗄️ Database  
+<p align="left">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
-  <img src="https://img.icons8.com/officel/48/react.png" alt="React" height="40"/>
 </p>
 
 ### 🛠 Tools & Platforms  
