@@ -60,14 +60,14 @@ Hi! I'm **Kaviyarasu**, a Computer Science student (2022–2026) passionate abou
 
 ## 🧠 Projects
 
+### 🌐 [Nxt Round - Company-Specific Interview Preparation Platform](https://nxt-round.vercel.app/)
+> *Node.js, React.js, Mongo DB, Tailwind CSS*  
+Nxt Round is a full-stack web application designed to assist freshers and job seekers in preparing for company-specific
+interviews.
+
 ### 📊 [Data Anonymizer & Synthetic Data Generator](https://github.com/Kavi981/Data-Anonymizer-Synthetic-Data-Generator)
 > *Python, Streamlit, Pandas, Faker, RegEx*  
 A Streamlit-based tool that anonymizes personal data from CSV files and free-text, while also generating synthetic data using customizable schemas.
-
-### 🌐 [SiteLens – AI SEO Analyzer](https://seositelens.vercel.app/)
-> *Node.js, React.js, Gemini API, Cheerio, Express*  
-Built an SEO analysis app that uses AI to deliver actionable suggestions for improving website structure and content.
-
 ---
 
 ## 📜 Certifications
