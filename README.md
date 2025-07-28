@@ -60,7 +60,7 @@ Hi! I'm **Kaviyarasu**, a Computer Science student (2022–2026) passionate abou
 
 ## 🧠 Projects
 
-### 🌐 [Nxt Round - Company-Specific Interview Preparation Platform](https://nxt-round.vercel.app/)
+### 🌐 [Nxt Round - Company-Specific Interview Preparation Platform](https://nxtround.tech/)
 > *Node.js, React.js, Mongo DB, Tailwind CSS*  
 Nxt Round is a full-stack web application designed to assist freshers and job seekers in preparing for company-specific
 interviews.
