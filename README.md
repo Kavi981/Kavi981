@@ -3,7 +3,7 @@
 # 👨‍💻 Kaviyarasu | MERN Stack Developer & AI Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=Hey+there!+I'm+Kaviyarasu.;MERN+Stack+Developer+%2B+AI+Explorer.;I+love+solving+real-world+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hey+there!+I'm+Kaviyarasu.;MERN+Stack+Developer+%2B+AI+Explorer.;I+love+solving+real-world+problems." alt="Typing SVG" />
 </p>
 
 ---
