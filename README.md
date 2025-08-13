@@ -1,22 +1,21 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/Kavi981)
 
-# 👨‍💻 Kaviyarasu | MERN Stack Developer & AI Enthusiast
+# 👨‍💻 Kaviyarasu | MERN Stack Developer & Problem Solver
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hey+there!+I'm+Kaviyarasu.;MERN+Stack+Developer+%2B+AI+Explorer.;I+love+solving+real-world+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hey+there!+I'm+Kaviyarasu.;MERN+Stack+Developer;I+love+solving+real-world+problems." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hi! I'm **Kaviyarasu**, a Computer Science student (2022–2026) passionate about building intelligent, scalable full-stack applications.
+Hi! I'm **Kaviyarasu**, a Computer Science student (2022–2026) passionate about building scalable full-stack applications, RESTful APIs, and intelligent systems that solve real-world problems.
 
 - 🎓 **B.E. CSE @ K.S.Rangasamy College of Technology** (CGPA: 8.3 / 10)  
-- 🛠️ Hands-on with full-stack development using the **MERN stack**
-- 🤖 Integrating AI into web apps: NLP, data anonymization
-- ☁️ Experience deploying with **Render**, **Vercel**, and working with **GitHub APIs**
-- 🎯 Mission: Build impactful tools that simplify developer and user experiences
+- 🛠️ Proficient in the **MERN stack** with a focus on clean, maintainable code  
+- ☁️ Skilled in deploying apps using **Vercel**, **Render**, and integrating external APIs  
+- 💡 Continuously learning and contributing to impactful personal and collaborative projects  
 
 ---
 
@@ -25,7 +24,6 @@ Hi! I'm **Kaviyarasu**, a Computer Science student (2022–2026) passionate abou
 ### 💻 Languages  
 <p>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40" style="margin-right:10px;"/>
-  <img src="https://img.icons8.com/color/48/python.png" height="40" style="margin-right:10px;"/>
 </p>
 
 ### 🎨 Frontend  
@@ -63,21 +61,27 @@ Hi! I'm **Kaviyarasu**, a Computer Science student (2022–2026) passionate abou
 ## 🧠 Projects
 
 ### 🌐 [Nxt Round - Company-Specific Interview Preparation Platform](https://nxtround.tech/)  
-> *Node.js, React.js, MongoDB, Tailwind CSS*  
-> A full-stack platform to help freshers and job seekers prepare for company-specific interviews.  
+> *React+Vite, TailwindCSS, Node.js, Express.js, MongoDB*  
+> A collaborative platform where users can share, search, and discuss company-specific interview questions.  
+> - Real-time updates via **MongoDB Change Streams**  
+> - Role-based access for users/admins  
+> - Frontend on **Vercel**, backend on **Render**  
 > **GitHub Repo:** [Kavi981/Nxt-Round](https://github.com/Kavi981/nxt-round)
 
-### 📊 [Data Anonymizer & Synthetic Data Generator](https://github.com/Kavi981/Data-Anonymizer-Synthetic-Data-Generator)  
-> *Python, Streamlit, Pandas, Faker, RegEx*  
-> Streamlit-based tool to anonymize personal data and generate synthetic datasets.
+### 📊 [GitVision - GitHub User Search & Visualization Tool](https://github.com/Kavi981/GitVision)  
+> *React, Styled Components, React Router DOM, GitHub API, FusionCharts, Auth0*  
+> Search and visualize GitHub user profiles with real-time data and secure authentication.  
+> - Rate-limit handling for API  
+> - Auth0 for user session management  
+> - Data visualization with **FusionCharts**
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 `Node.js + Express` – Infosys Springboard  
-- 🐍 `Joy of Computing in Python` – NPTEL  
-- 🔐 `Cyber Security and Privacy` – NPTEL  
+- 🏅 **Node.js + Express** – Infosys Springboard  
+- 🐍 **The Joy of Computing Using Python** – NPTEL  
+- 🔐 **Cyber Security and Privacy** – NPTEL  
 
 ---
 
